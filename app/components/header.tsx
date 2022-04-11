@@ -1,5 +1,4 @@
 import { Link } from "remix";
-import { useMediaQuery } from "beautiful-react-hooks";
 
 import { PlusIcon, HomeIcon, BurgerMenuIcon, ProfileIcon, CloseIcon } from ".";
 
