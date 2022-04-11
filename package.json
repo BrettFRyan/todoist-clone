@@ -36,6 +36,8 @@
     "@remix-run/react": "^1.3.3",
     "@remix-run/serve": "^1.3.3",
     "bcryptjs": "^2.4.3",
+    "beautiful-react-hooks": "^1.2.0",
+    "moment": "^2.29.2",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "remix": "^1.3.3",

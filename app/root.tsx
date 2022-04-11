@@ -39,7 +39,7 @@ export default function App() {
         <Meta />
         <Links />
       </head>
-      <body className="h-full bg-zinc-50 font-sans">
+      <body className="h-full bg-white font-sans">
         <Outlet />
         <ScrollRestoration />
         <Scripts />

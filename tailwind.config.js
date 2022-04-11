@@ -1,7 +1,12 @@
 module.exports = {
   content: ["./app/**/*.{ts,tsx,jsx,js}"],
   theme: {
-    extend: {},
+    extend: {
+      transitionProperty: {
+        spacing: "margin, padding",
+        height: "height",
+      },
+    },
   },
   plugins: [],
 };
